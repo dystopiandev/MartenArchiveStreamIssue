@@ -1,4 +1,4 @@
-Requirements container runtime (Docker).
+Requires container runtime (Docker).
 
 ```bash
 dotnet restore
